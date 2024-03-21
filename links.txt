@@ -1,0 +1,9 @@
+Energy market https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/
+Canada's Energy Future: https://www.cer-rec.gc.ca/en/data-analysis/canada-energy-future/
+Canada’s Energy Future 2023: Energy Supply and Demand Projections to 2050 :https://open.canada.ca/data/en/dataset/7643c948-d661-4d90-ab91-e9ac732fc737
+source dataset canada enlectricity: https://search.open.canada.ca/opendata/?sort=metadata_modified+desc&search_text=electricity&page=1
+source dataset canada enlectricity 2:https://www150.statcan.gc.ca/n1/en/type/data?text=electricity
+Implementing agreement on renewable energy technology deployment (IEA-RETD): https://natural-resources.canada.ca/energy/energy-sources-distribution/renewables/implementing-agreement-renewable-energy-technology-deployment-iea-retd/7313
+Exploring Canada’s Energy Future: Student Resources:https://www.cer-rec.gc.ca/en/data-analysis/student-resources/
+mutiple data: https://apps.cer-rec.gc.ca/ftrppndc/dflt.aspx?GoCTemplateCulture=en-CA
+https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-explore.html
