@@ -1,0 +1,113 @@
+,Predicción,sector
+2024-12-31,8252026.1506598,industries
+2025-12-31,8580935.892478108,industries
+2026-12-31,8970197.660530686,industries
+2027-12-31,9281572.860997796,industries
+2028-12-31,9444945.92032957,industries
+2029-12-31,9373237.077352881,industries
+2030-12-31,9204726.847671747,industries
+2031-12-31,8915384.625552177,industries
+2032-12-31,8586109.910505295,industries
+2033-12-31,8295221.475255668,industries
+2034-12-31,8104309.488418579,industries
+2035-12-31,8028534.051148474,industries
+2036-12-31,8080130.223446667,industries
+2037-12-31,8232286.78924191,industries
+2038-12-31,8443218.119442344,industries
+2039-12-31,8666421.055291772,industries
+2040-12-31,8859818.810637474,industries
+2041-12-31,8987607.28221345,industries
+2042-12-31,9030874.429578066,industries
+2043-12-31,8988120.975085974,industries
+2044-12-31,8874854.716995835,industries
+2045-12-31,8719786.157749772,industries
+2046-12-31,8558421.357265592,industries
+2047-12-31,8424210.39585042,industries
+2048-12-31,8341770.119751871,industries
+2049-12-31,8322508.570025146,industries
+2050-12-31,8363747.886988699,industries
+2051-12-31,8451042.995656013,industries
+2024-12-31,46798096.45339501,private electric utilities
+2025-12-31,47063114.1862936,private electric utilities
+2026-12-31,47374440.35471928,private electric utilities
+2027-12-31,47634216.945663214,private electric utilities
+2028-12-31,47707910.93198311,private electric utilities
+2029-12-31,47539349.42078304,private electric utilities
+2030-12-31,47618662.25393844,private electric utilities
+2031-12-31,47673156.89112675,private electric utilities
+2032-12-31,47700424.32802212,private electric utilities
+2033-12-31,47705991.25666094,private electric utilities
+2034-12-31,47706588.31592274,private electric utilities
+2035-12-31,47723394.23618746,private electric utilities
+2036-12-31,47733471.55816269,private electric utilities
+2037-12-31,47739203.32707596,private electric utilities
+2038-12-31,47742999.84520805,private electric utilities
+2039-12-31,47746711.99627054,private electric utilities
+2040-12-31,47750651.28944349,private electric utilities
+2041-12-31,47753303.01133883,private electric utilities
+2042-12-31,47755230.47439051,private electric utilities
+2043-12-31,47756803.595749855,private electric utilities
+2044-12-31,47758163.85250282,private electric utilities
+2045-12-31,47759282.68964124,private electric utilities
+2046-12-31,47760127.658292174,private electric utilities
+2047-12-31,47760797.40302932,private electric utilities
+2048-12-31,47761334.75636494,private electric utilities
+2049-12-31,47761789.040585876,private electric utilities
+2050-12-31,47762142.08432329,private electric utilities
+2051-12-31,47762425.03849518,private electric utilities
+2024-12-31,95133515.06817198,public electric utilities
+2025-12-31,95393779.87140083,public electric utilities
+2026-12-31,95619798.01352549,public electric utilities
+2027-12-31,95851759.28649902,public electric utilities
+2028-12-31,95986479.76389384,public electric utilities
+2029-12-31,96131490.56398559,public electric utilities
+2030-12-31,96283720.58253479,public electric utilities
+2031-12-31,96422907.03476357,public electric utilities
+2032-12-31,96550692.9747119,public electric utilities
+2033-12-31,96666174.58993936,public electric utilities
+2034-12-31,96775807.96798825,public electric utilities
+2035-12-31,96878803.43425941,public electric utilities
+2036-12-31,96974420.41996908,public electric utilities
+2037-12-31,97063308.5817833,public electric utilities
+2038-12-31,97146065.81618428,public electric utilities
+2039-12-31,97223354.38808799,public electric utilities
+2040-12-31,97295421.81734776,public electric utilities
+2041-12-31,97362568.04759288,public electric utilities
+2042-12-31,97425142.7918601,public electric utilities
+2043-12-31,97483485.80930471,public electric utilities
+2044-12-31,97537877.79938507,public electric utilities
+2045-12-31,97588592.82563853,public electric utilities
+2046-12-31,97635868.45403695,public electric utilities
+2047-12-31,97679940.25977588,public electric utilities
+2048-12-31,97721037.18212986,public electric utilities
+2049-12-31,97759353.65358424,public electric utilities
+2050-12-31,97795077.47070336,public electric utilities
+2051-12-31,97828383.15820956,public electric utilities
+2024-12-31,148946144.728925,capacity in Total all classes of electricity producer
+2025-12-31,149310840.03455687,capacity in Total all classes of electricity producer
+2026-12-31,149665215.22551584,capacity in Total all classes of electricity producer
+2027-12-31,149989966.11835217,capacity in Total all classes of electricity producer
+2028-12-31,150022274.1372931,capacity in Total all classes of electricity producer
+2029-12-31,149833014.3205304,capacity in Total all classes of electricity producer
+2030-12-31,149916378.93283367,capacity in Total all classes of electricity producer
+2031-12-31,149971495.34844494,capacity in Total all classes of electricity producer
+2032-12-31,149998538.00275683,capacity in Total all classes of electricity producer
+2033-12-31,149999545.85169196,capacity in Total all classes of electricity producer
+2034-12-31,149998518.62104654,capacity in Total all classes of electricity producer
+2035-12-31,150013867.64348292,capacity in Total all classes of electricity producer
+2036-12-31,150022798.73558497,capacity in Total all classes of electricity producer
+2037-12-31,150027542.08615017,capacity in Total all classes of electricity producer
+2038-12-31,150030349.8499143,capacity in Total all classes of electricity producer
+2039-12-31,150033306.2067907,capacity in Total all classes of electricity producer
+2040-12-31,150036535.19972515,capacity in Total all classes of electricity producer
+2041-12-31,150038649.09826088,capacity in Total all classes of electricity producer
+2042-12-31,150040147.95052338,capacity in Total all classes of electricity producer
+2043-12-31,150041327.65062308,capacity in Total all classes of electricity producer
+2044-12-31,150042362.63395262,capacity in Total all classes of electricity producer
+2045-12-31,150043219.30554748,capacity in Total all classes of electricity producer
+2046-12-31,150043836.93604875,capacity in Total all classes of electricity producer
+2047-12-31,150044336.98417425,capacity in Total all classes of electricity producer
+2048-12-31,150044719.449924,capacity in Total all classes of electricity producer
+2049-12-31,150045037.30997276,capacity in Total all classes of electricity producer
+2050-12-31,150045278.9352944,capacity in Total all classes of electricity producer
+2051-12-31,150045480.50508142,capacity in Total all classes of electricity producer
