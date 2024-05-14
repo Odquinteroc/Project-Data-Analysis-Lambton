@@ -1,4 +1,4 @@
-,REF_DATE,GEO,Class of electricity producer,Type of electricity generation,UOM,VALUE,Porcentaje_Aumento
+,REF_DATE,GEO,Class of electricity producer,Type of electricity generation,UOM,VALUE,Grow_percentage
 0,2010,Canada,"Electricity producer, private electric utilities",Total installed capacity,Kilowatts,27705125.0,0.0
 1,2011,Canada,"Electricity producer, private electric utilities",Total installed capacity,Kilowatts,27691677.0,-0.04853975573111473
 2,2012,Canada,"Electricity producer, private electric utilities",Total installed capacity,Kilowatts,29795358.5,7.5445734318109015
